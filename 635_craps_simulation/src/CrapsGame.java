@@ -1,6 +1,7 @@
 
 public class CrapsGame
 {
+	
 	private int point;
 	private Dice dice;
 	public static boolean showOutput = true;
